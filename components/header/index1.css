@@ -1,0 +1,25 @@
+.container-one{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 100%;
+      
+    padding: 2em;}
+    .container-one-header{
+    display: flex;
+    justify-content: space-between;}
+    .container-one-header-button{
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9em;
+    height: 2em;}
+    .container-one-var{
+    display: flex;
+    justify-content: space-between;}
+    .container-one-text{
+    font-size: 2.5rem;}
+    .container-one-image{
+    width: 600px;
+    height: 550px;}    

@@ -1,0 +1,21 @@
+.container-four{
+    display: flex;
+    justify-content: space-between;}
+    .container-four-img{
+    width: 600px;
+            
+    margin: 0;}
+    .container-four-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1rem;
+    padding-right: 15%;}
+    .container-four-button{
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9em;
+    height: 2em;}
+    
