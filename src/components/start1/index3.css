@@ -1,0 +1,21 @@
+.container-three{
+    display: flex;
+    justify-content: space-between;}
+    .container-three-img{
+    width: 600px;
+    margin: 0;}
+    .container-three-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1rem;
+    padding-right: 15%;}
+       
+    .container-three-button{
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 9em;
+    height: 2em;}
+    

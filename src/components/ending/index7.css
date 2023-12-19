@@ -1,0 +1,14 @@
+.container-seven{
+    display: flex;
+    flex-direction: column;}
+    .container-seven-img{
+    width: 90vw;}
+    .container-seven-header-text{
+    display: flex;
+    /* padding: 5%; */
+    padding: 1em;}
+    .container-seven-footer{
+                  
+    display: flex;
+    justify-content: space-between;
+    padding: 0.7em;}    
